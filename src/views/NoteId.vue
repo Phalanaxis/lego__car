@@ -166,6 +166,8 @@
             isModal.value = false
           } else if (deleteType.value === "note") {
             store.commit("SET_NOTES", getNotes.value.filter(item => item.id !== getFoundNote.value.id))
+            const parsed = JSON.stringify(getNotes.value)
+            localStorage.setItem("notes", parsed)
             router.push({ path: "/" })
           }
         } else {
