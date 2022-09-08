@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunklego_car"]=self["webpackChunklego_car"]||[]).push([[410],{5410:function(e,r,n){n.r(r),n.d(r,{default:function(){return d}});var t=n(3396);const c={class:"default"};function u(e,r){const n=(0,t.up)("router-view");return(0,t.wg)(),(0,t.iD)("div",c,[(0,t.Wm)(n)])}var a=n(89);const s={},o=(0,a.Z)(s,[["render",u],["__scopeId","data-v-02d3d4e3"]]);var d=o}}]);
+//# sourceMappingURL=410.a3020f92.js.map
